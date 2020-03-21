@@ -1,6 +1,8 @@
 # Note Taker
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/FullStackForce)
 
+![FullStackForce](note-taker.gif)
+
 ## Description
 ​
 This is a note taker app, built with the Express node.js server module. 
