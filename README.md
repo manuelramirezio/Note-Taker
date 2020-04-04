@@ -6,6 +6,8 @@
 ## Description
 ​
 This is a note taker app, built with the Express node.js server module. 
+
+demo: https://notetakercbc.herokuapp.com/
 ​
 ## Table of Contents
 * [Installation](#installation) 
